@@ -1,0 +1,28 @@
+{
+  "name": "react-use-click-outside-hook",
+  "version": "1.0.0",
+  "description": "Modal close handler while clicking outside of the modal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safwantaliparamba/react-use-click-outside-handler.git"
+  },
+  "keywords": [
+    "react-hook",
+    "outside-click-handler",
+    "use-click-outside",
+    "modal",
+    "modal-click-handler",
+    "modal-outside-click-handler",
+    "modal-close-handler"
+  ],
+  "homepage": "https://github.com/safwantaliparamba/react-use-click-outside-handler#README.md",
+  "author": "safwantaliparamba",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
