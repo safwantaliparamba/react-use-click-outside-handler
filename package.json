@@ -1,6 +1,6 @@
 {
   "name": "react-use-click-outside-hook",
-  "version": "1.0.0",
+  "version": "1.6.0",
   "description": "Modal close handler while clicking outside of the modal",
   "main": "index.js",
   "scripts": {
